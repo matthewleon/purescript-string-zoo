@@ -1,0 +1,16 @@
+{
+  "name": "purescript-string-zoo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-generics-rep": "^5.4.0",
+    "purescript-strings": "purescript/purescript-strings#master"
+  },
+  "devDependencies": {
+    "purescript-quickcheck": "^4.7.0"
+  }
+}
