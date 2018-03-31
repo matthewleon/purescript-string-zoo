@@ -12,5 +12,8 @@
   },
   "devDependencies": {
     "purescript-quickcheck": "^4.7.0"
+  },
+  "resolutions": {
+    "purescript-strings": "master"
   }
 }
